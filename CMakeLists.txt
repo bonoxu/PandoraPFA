@@ -23,7 +23,7 @@ include(PandoraCMakeSettings)
 
 #-------------------------------------------------------------------------------------------------------------------------------------------
 # External project versions
-set(git_repository_root "https://github.com/PandoraPFA")
+set(git_repository_root "git@github.com:bonoxu")
 
 set(PandoraSDK_repository "PandoraSDK.git")
 set(PandoraMonitoring_repository "PandoraMonitoring.git")
